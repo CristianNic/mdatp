@@ -1,0 +1,13 @@
+cloudAutomaticSampleSubmission          : true
+cloudDiagnosticEnabled                  : false
+cloudEnabled                            : true
+definitionsUpdated                      : "1582564338800"
+definitionsUpdatedMinutesAgo            : 33
+definitionsVersion                      : 79859
+healthy                                 : true
+licensed                                : true
+logLevel                                : "info"
+realTimeProtectionAvailable             : true
+realTimeProtectionEnabled               : true
+releaseRing                             : "Production"
+versionEngine                           : "100.83.7118"

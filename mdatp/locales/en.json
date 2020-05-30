@@ -1,0 +1,18 @@
+{
+    "link": "mdatp Link",
+    "listing": {
+        "title": "mdatp Listing",
+        "item1": "Healthy",
+        "item2": "Version Engine",
+        "item3": "Definitions Updated",
+        "item4": "Definitions Updated Minutes Ago",
+        "item5": "Definitions Version"
+    },
+    "report": {
+        "title": "mdatp Report"
+    },
+    "title": "mdatp Title",
+    "widget": {
+        "title": "mdatp Widget"
+    }
+}

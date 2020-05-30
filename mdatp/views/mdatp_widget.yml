@@ -1,0 +1,7 @@
+type: scrollbox
+widget_id: mdatp-widget
+api_url: /module/mdatp/get_list
+i18n_title: mdatp.widget.title
+icon: fa-laptop
+listing_link: /show/listing/mdatp/mdatp
+search_key: item1
