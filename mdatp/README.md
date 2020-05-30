@@ -1,1 +1,1 @@
-A modedule for MunkiReport-PHP
+A module for MunkiReport-PHP
