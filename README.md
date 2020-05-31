@@ -4,4 +4,4 @@ A module for MunkiReport-PHP [https://github.com/munkireport/munkireport-php]
 
 This module report on installation of Microsoft Defender ATP [https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection]
 
-![](https://github.com/CristianNic/mdatp/listing.jpg)
+![](https://github.com/CristianNic/mdatp/blob/master/listing.jpg)
