@@ -1,4 +1,5 @@
 # mdatp
+==============
 
 A module for MunkiReport-PHP [https://github.com/munkireport/munkireport-php]
 
